@@ -1,0 +1,12 @@
+.rating-icon{
+    width: 20px;
+}
+
+.list{
+    gap: 10px;
+    padding-left: 0;
+    text-align: center;
+}
+.list li{
+    list-style: none;
+}
